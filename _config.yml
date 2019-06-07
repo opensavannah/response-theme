@@ -1,6 +1,6 @@
 ---
-title: CfA Hurricane Response
-timezone: UTC
+title: Chatham Shelter Response
+timezone: America/Indiana/Indianapolis
 collections:
   posts:
     title: Posts
@@ -8,14 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: email@hurricane-response.org
-description: No One's Coming - It's Up to Us
+email: fellowship@opensavannah.org
+description: Sea-level-rise is a matter of environmental justice.
 repository: opensavannah/response-theme
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 help_url: https://www.codeforamerica.org
 logo: https://avatars0.githubusercontent.com/u/43193416?s=400&u=8e1d97c94fa7a9611c8b8fa765e68c8fe86e2e7c
-txtbot_trigger: Hurricane
+txtbot_trigger: sealevel
 textbot_display: 898211
 markdown: kramdown
 plugins:
