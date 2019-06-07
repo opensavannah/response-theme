@@ -10,6 +10,7 @@ collections:
     output: true
 email: email@hurricane-response.org
 description: No One's Coming - It's Up to Us
+repository: opensavannah/response-theme
 baseurl: ''
 url: ''
 help_url: https://www.codeforamerica.org
