@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
+
 # Code for America Hurricane Response Theme
 
 This is a Jekyll theme for quickly deploying map sites with the [shelter-api](https://github.com/hurricane-response/florence-api).

@@ -1,5 +1,6 @@
 ---
-layout: pod
 title: Points of Distribution Map
-permalink: /distribution-map/
+permalink: "/distribution-map/"
+layout: pod
 ---
+
